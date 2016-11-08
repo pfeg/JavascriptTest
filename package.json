@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/pfeg/JavascriptTest/issues"
   },
-  "homepage": "https://github.com/pfeg/JavascriptTest#readme"
+  "homepage": "https://github.com/pfeg/JavascriptTest#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
